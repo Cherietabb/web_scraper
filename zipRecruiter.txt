@@ -1,0 +1,60 @@
+Title:  Senior JavaScript Engineer (Remote )
+Company:  Strategic Employment Partners
+Description:  Job Description Nationwide software product development financial company is looking to hire a Senior Front-End JavaScript Software Engineer. The company develops enterprise-level mission-critical ...
+Title:  Front End Software Architect - JavaScript, AngularJS
+Company:  Technology Navigators
+Description:  Apply your extensive knowledge of JavaScript frameworks to integrate projects with clients’ websites * Aid in the support of mobile solutions, performance and cross browser issues * Continue ...
+Title:  Full Stack Software Developer - JavaScript, Java, ReactJS
+Company:  Technology Navigators
+Description:  Successful track record of working with web technologies (JavaScript, ReactJS, Backbone, jQuery, etc.) * Strong command of JDBC APIs and SQL development * Proven understanding of MVC frameworks ...
+Title:  Senior JavaScript Developer
+Company:  Q2 Software
+Description:  Seeking an innovative and passionate Senior JavaScript Developer to help build cutting edge, next generation electronic banking software. Founded here in Austin, TX, we are a growing company with the ...
+Title:  JavaScript / Node.JS Developer - Austin, MongoDB, AngularJS
+Company:  (unknown company)
+Description:  JavaScript / Node.JS Developer - MongoDB, Express.JS, AngularJS and Node.JS - $80,000 - $120,000The CompanyA company that offers unlimited PTO, flexible working hours, stock options and an excellent ...
+Title:  Senior Javascript Engineer
+Company:  CAKE
+Description:  About The Role As a CAKE JavaScript Engineer, you’ll work with a tight knit team developing robust, intuitive client (& server) JavaScript applications using modern technologies like Ember.js, Node ...
+Title:  Front End Developer - Knockout.js, JavaScript, FLEX
+Company:  CyberCoders
+Description:  Front End Developer - Knockout.js, JavaScript, FLEX Front End Developer - Knockout.js, JavaScript, FLEX - Skills Required - Knockout.js, JavaScript, FLEX, AngularJS. Austin, TX| Front End Developer ...
+Title:  Full Stack JavaScript Engineer
+Company:  (unknown company)
+Description:  Full Stack JavaScript Engineer - JavaScript, MongoDB, NodeJS, AngularJS, JQuery, HTML5/CSS - Austin, TX - Competitive Salary and Unlimited Vacation!Full Stack JavaScript Engineer The positon will ...
+Title:  Senior JavaScript Engineer - Angular
+Company:  CyberCoders
+Description:  Senior JavaScript Engineer - Angular Senior JavaScript Engineer - Angular - Skills Required - Angular, JavaScript, Agile, Selenium, HTML5, CSS3, Python. If you are a Senior Software Developer with ...
+Title:  Senior JavaScript Software Engineer ( REMOTE )
+Company:  Jack Henry and Associates
+Description:  As a JavaScript Engineer on the Banno Team at Jack Henry, you’ll get the chance to make a real, positive impact on people’s lives. Our mission is to give people the best possible experience they ...
+Title:  JavaScript/Node.js Developer
+Company:  New Iron Group, Inc.
+Description:  We are looking for a strong JavaScript Developer with Node.js experience who is excited about working in a fun and challenging environment. This is a direct hire opportunity located in Downtown ...
+Title:  Senior JavaScript Engineer
+Company:  Integral
+Description:  We're seeking a Senior JavaScript Engineer to join our Austin, TX office. We operate at a scale that is matched only by very few internet companies today and that brings with it great technical ...
+Title:  Senior JavaScript Engineer
+Company:  Evernote
+Description:  We are looking for a Senior JavaScript Engineer to join our team in Austin. This is an opportunity to work on apps used by millions of people. This team specifically is working with some of the ...
+Title:  Senior Software Engineer- Python, Javascript
+Company:  ITSource
+Description:  Javascript * Jquery * Charting software (such as highcharts, d3...etc) * CSS/HTML * Experience with Automation and Configuration Management Frameworks (Puppet, Salt, Zookeeper) * Experience with ...
+Title:  Full-Stack JavaScript Engineer
+Company:  PayPal
+Description:  R0015415 Full-Stack JavaScript Engineer. PayPal's Consumer Engineering team is looking for a talented full-stack engineer to work on the next generation of the Consumer web site. We want people who ...
+Title:  Javascript Developer
+Company:  THE TALANCE GROUP, LP
+Description:  One of our clients is hiring for a Senior JavaScript Engineer.?PerksTrendy companyCutting edge technologyFlex work schedulegood bennies and 401kExciting projects!?Must have -?NodeAngularbackboneHTML5 ...
+Title:  Javascript Developer Sumo
+Company:  Sumo Group Inc.
+Description:  Experience with Javascript Preferred Qualifications: * Experience with React JS
+Title:  Junior Javascript Developer Sumo
+Company:  Sumo Group Inc.
+Description:  Experience with Javascript Preferred Qualifications: * Experience with React JS
+Title:  JavaScript Software Architect, JobID:228
+Company:  Craftlogic Software LLC
+Description:  We are looking to use the latest JavaScript technology (Angular or similar) to integrate with client's websites, and provide seamless experience for employers. Put your passion for clean and ...
+Title:  JAVASCRIPT BOOTCAMP DEVELOPERS - INSTRUCTORS
+Company:  Southern Careers Institute
+Description:  JAVASCRIPT BOOTCAMP DEVELOPERS - INSTRUCTORS Are you PASSIONATE about Coding? Do you enjoy teaching others? Southern Careers Institute, one of Texas’ leading vocational educational institutions, is ...
